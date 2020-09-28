@@ -1,0 +1,12 @@
+server:
+  port: 8081
+swagger:
+  base-path: /**
+  base-package: 'com.morgan.controller'
+  title: 'spring-boot-swagger-demo'
+  description: '\u57FA\u4E8ESwagger\u6784\u5EFA\u7684SpringBoot RestApi \u6587\u6863'
+  version: '1.0'
+  contact:
+    name: 'morgan'
+    url: 'https://limenggen.gitee.io'
+    email: 'lmgsoul@163.com'
